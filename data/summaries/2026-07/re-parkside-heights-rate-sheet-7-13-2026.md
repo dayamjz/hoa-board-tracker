@@ -1,64 +1,61 @@
 ---
-{"id":"AQMkADAwATExAGJiADgtOTAwADEtNzZlOS0wMAItMDAKAEYAAAMsa8qpdTDERIZ_Nfdtn0wxBwCE_yZ5WLCdRbJ4S4LA06FJAAACAQwAAACE_yZ5WLCdRbJ4S4LA06FJAAldpMXDAAAA","date":"2026-07-21","type":"sensitive_doc","doc_type":"meeting","subject":"Re: Parkside Heights - Rate Sheet 7/13/2026","from":"stephanie@vintagegroupre.com","summary_path":"data/summaries/2026-07/re-parkside-heights-rate-sheet-7-13-2026.md","created_at":"2026-07-21T20:00:31.818Z"}
+{"id":"AQMkADAwATExAGJiADgtOTAwADEtNzZlOS0wMAItMDAKAEYAAAMsa8qpdTDERIZ_Nfdtn0wxBwCE_yZ5WLCdRbJ4S4LA06FJAAACAQwAAACE_yZ5WLCdRbJ4S4LA06FJAAlkB4CrAAAA","date":"2026-07-30","type":"sensitive_doc","doc_type":"general","subject":"Re: Parkside Heights - Rate Sheet 7/13/2026","from":"justin@vintagegroupre.com","summary_path":"data/summaries/2026-07/re-parkside-heights-rate-sheet-7-13-2026.md","created_at":"2026-07-30T01:00:29.894Z"}
 ---
 
 # Re: Parkside Heights - Rate Sheet 7/13/2026
 
-From: stephanie@vintagegroupre.com · 2026-07-21
+From: justin@vintagegroupre.com · 2026-07-30
 
-**Summary of Your Email and the Attached CD Rate Sheet**
-
-**Subject:** Parkside Heights – Rate Sheet 7/13/2026  
-**Type:** Meeting/Instruction
+Here’s a summary of the key points from the email and attached rate sheet for Parkside Heights—Columbia Bank CDs, effective 7/1/2026:
 
 ---
 
-**Email Overview:**
+## Action Steps (per email):  
+To proceed with a new CD, notify Justin and Van of:  
+- **CD Term** (e.g., 6 months, 12 months, etc.)  
+- **Rate requested** (see below)
+- **Dollar amount** to invest
+- **Account to fund from** (operating or reserves)
 
-- **Sender:** Stephanie Co (stephanie@vintagegroupre.com)
-- **Recipients:** Justin & Joel
-- **Main Point:**  
-  - Stephanie confirms that Joel was approved to move $100,000 into investments (approval minutes included).
-  - She asks Justin to assist Joel with the process of investing $100,000, specifically in the 9-month option.
-
----
-
-**Key Details from Attached Rate Sheet (COLB_HOA_CD_Rate_Sheet (19).pdf):**
-
-- **Institution:** Columbia Bank
-- **Effective Date:** 07/01/2026
-
-**Columbia CD Terms (minimum $10,000 deposit):**
-| Term         | Rate   | APY    |
-|--------------|--------|--------|
-| 9 Months     | 3.54%  | *Unavailable* |
-
-**IntraFi Network Terms** (listed for comparison; the 9-month term is not directly offered here):
+All necessary requirements have already been provided to Justin and Van.
 
 ---
 
-**Instructions/Next Steps from Email:**
+## CD Rate Highlights (Columbia Bank)
 
-- Justin should guide Joel through the process of depositing $100,000 into a Columbia Bank 9-month CD (Certificate of Deposit), using the rate sheet for terms and rate reference.
-- The CD is offering a 3.54% simple interest rate for a 9-month term (APY not listed but can be estimated).
-- Documentation of board/member approval for the investment decision has been provided.
-
----
-
-**Action Items:**
-
-1. Justin: Contact Columbia Bank (see rate sheet for contact info) to get details on funding the 9-month CD.
-2. Joel: Work with Justin to execute the $100,000 investment.
-3. Retain documentation (rate sheet, approval minutes) for association records, if not already done.
+| Term          | Rate   | APY   | Minimum |
+|---------------|--------|-------|---------|
+| 30–60 Days    | 2.47%  | 2.50% | $10,000 |
+| 3 Months      | 2.71%  | 2.75% | $10,000 |
+| 6 Months      | 3.39%  | 3.45% | $10,000 |
+| 9 Months      | 3.54%  | 3.60% | $10,000 |
+| 12 Months     | 3.15%  | 3.20% | $10,000 |
+| 18 Months     | 2.96%  | 3.00% | $10,000 |
+| 24–60 Months  | 2.47%  | 2.50% | $10,000 |
 
 ---
 
-**Contact for Columbia Bank CD:**
-- Phone: (972) 701-1110
-- Email: HOAService@ColumbiaBank.com
+## IntraFi Network CD Rates
 
-**Note:** Early withdrawal penalties may apply; minimum $10,000 required.
+| Term         | Rate   | APY   |
+|--------------|--------|-------|
+| 4 Weeks      | 1.64%  | 1.65% |
+| 13 Weeks     | 2.62%  | 2.65% |
+| 26 Weeks     | 3.30%  | 3.35% |
+| 52 Weeks     | 3.06%  | 3.10% |
 
 ---
 
-**If you need calculations on projected earnings for $100,000 at 3.54% for 9 months, or a draft email template to the bank, let me know!**
+## Notes
+- Minimum to open: $10,000  
+- Rates & APYs can change; penalties for early withdrawals
+- Fees may reduce earnings
+- Internal use only; express written consent required to share
+
+---
+
+**If you want to proceed, just reply with:**
+- Your selected CD term and amount
+- Which account to fund from
+
+Let me know if you need a more detailed summary or any recommendations!
