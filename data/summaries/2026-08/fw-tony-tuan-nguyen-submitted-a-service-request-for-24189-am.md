@@ -1,34 +1,42 @@
 ---
-{"id":"AQMkADAwATExAGJiADgtOTAwADEtNzZlOS0wMAItMDAKAEYAAAMsa8qpdTDERIZ_Nfdtn0wxBwCE_yZ5WLCdRbJ4S4LA06FJAAACAQwAAACE_yZ5WLCdRbJ4S4LA06FJAAlobosoAAAA","date":"2026-08-07","type":"sensitive_doc","doc_type":"maintenance","subject":"Fw: Tony Tuan Nguyen submitted a service request for:  24189 Amaranth Loop - Hayward","from":"stephanie@vintagegroupre.com","summary_path":"data/summaries/2026-08/fw-tony-tuan-nguyen-submitted-a-service-request-for-24189-am.md","created_at":"2026-08-07T07:14:33.255Z"}
+{"id":"AQMkADAwATExAGJiADgtOTAwADEtNzZlOS0wMAItMDAKAEYAAAMsa8qpdTDERIZ_Nfdtn0wxBwCE_yZ5WLCdRbJ4S4LA06FJAAACAQwAAACE_yZ5WLCdRbJ4S4LA06FJAAlobosoAAAA","date":"2026-08-07","type":"sensitive_doc","doc_type":"maintenance","subject":"Fw: Tony Tuan Nguyen submitted a service request for:  24189 Amaranth Loop - Hayward","from":"stephanie@vintagegroupre.com","summary_path":"data/summaries/2026-08/fw-tony-tuan-nguyen-submitted-a-service-request-for-24189-am.md","created_at":"2026-08-07T09:14:29.743Z"}
 ---
 
 # Fw: Tony Tuan Nguyen submitted a service request for:  24189 Amaranth Loop - Hayward
 
 From: stephanie@vintagegroupre.com · 2026-08-07
 
-Here’s a summary and classification for your provided email:
+**Summary of Maintenance Service Request: 24189 Amaranth Loop (Hayward) – Parkside Heights HOA**
+
+**Type:** Maintenance (Fence repair and replacement)
+
+**Details:**
+- **Request Submitted By:** Tony Tuan Nguyen  
+- **Forwarded By:** Stephanie Snyder (Vintage Group Real Estate)  
+- **Attachment:** Proposal from Universal Site Services, Inc.
+
+**Scope of Work:**
+- Remove and replace 40 feet of fence and 5 posts.
+- Remove unstable panels; salvage usable lumber.
+- Jackhammer out old footings and remove roots.
+- Install new concrete footings and pressure-treated posts.
+- Allow curing time and install panels/kickers/crown.
+- Allow for extra materials if damage or dry rot is discovered.
+
+**Estimate:** $4,200 (One-time service; date TBD)
+
+**Exclusions:**  
+- Permit/planning fees, unagreed scope changes, special equipment, and unforeseen site issues are not included.
+
+**Next Steps:**  
+Await instructions or approval from Joel (recipient of Stephanie’s email) on how to proceed with the proposal.
+
+**Contact for Proposal:**  
+Jamison Aguirre  
+Universal Site Services, Inc.  
+Tel: 408-394-3357  
+Email: jaguirre@universalsiteservices.com
 
 ---
 
-**Document Type (per classifier hint):**  
-Maintenance Request/Service Request (specifically, fence repair and replacement)
-
----
-
-**Summary:**
-Stephanie Snyder, CMCA, the Northern California Regional Director at Vintage Group, forwarded a service request originally submitted by Tony Tuan Nguyen for the property at 24189 Amaranth Loop, Hayward. The subject of the request is regarding the repair and replacement of fencing at Parkside Heights. Stephanie has attached a PDF document detailing the fence repair and replacement and is asking Joel for instructions on how to proceed.
-
-**Key Information:**
-- **Sender:** Stephanie Snyder (stephanie@vintagegroupre.com)
-- **Recipient:** Joel
-- **Attachment:** "Parkside Hieghts fence repair and replacement. .pdf"
-- **Service Requested:** Fence repair/replacement at 24189 Amaranth Loop, Parkside Heights, Hayward
-- **Request Originator:** Tony Tuan Nguyen
-
-**Next Steps:**
-- Joel should review the attached PDF for details about the required fence repair/replacement.
-- Joel should respond to Stephanie with direction on how to proceed.
-
----
-
-**If you need a summary, response template, or extraction of specific details from the PDF, please let me know!**
+**Classification:** Maintenance (fence repair & replacement proposal/estimate)
