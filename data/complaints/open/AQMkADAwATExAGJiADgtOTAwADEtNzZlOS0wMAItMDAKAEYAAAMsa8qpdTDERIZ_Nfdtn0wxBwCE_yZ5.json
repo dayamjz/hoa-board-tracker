@@ -10,5 +10,8 @@
   "excerpt": "Just going through emails to close the loop. This information was sent to the owner. Once they provide the driver information and acknowledge your requirements, I will issue the parking permit. Stephanie Snyder, CMCA Northern California Region",
   "attachments": [],
   "received_at": "2026-10-04T22:00:10.847Z",
-  "created_at": "2026-10-04T22:00:11.273Z"
+  "created_at": "2026-10-04T22:00:11.273Z",
+  "slack_dm_channel": "D0BF4QU39PB",
+  "slack_parent_ts": "1791151213.293159",
+  "slack_thread_ts": "1791151213.293159"
 }
